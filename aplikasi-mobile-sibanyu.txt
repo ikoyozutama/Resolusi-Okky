@@ -4,9 +4,5 @@ DESKRIPSI SINGKAT APLIKASI SIBANYU
 A. Mengecek total penggunaan air setiap orang
 B. Mengkonversi total biaya yang dihabiskan setiap orang melalui total meteran air
 C. Pembayaran biaya penggunaan air dengan bekerja sama beberapa mitra seperti Dana, OVO, LinkAja dan transfer bank
-D. Mengatur data administrasi dan penggunaan air setiap orang
-E. Mengatur jumlah administrasi keuangan pengelolaan air perbulan
 - Aplikasi nantinya akan menggunakan flutter dan berbasis android/OS
-- Akan ada fitur game didalam aplikasi untuk mengumpulkan poin dan poin ini dapat digunakan untuk mendapat potongan biaya penggunaan air
 - Diharapkan aplikasi ini dapat membantu operator pengelola air dan masyarakat desa Tamanasri yang menjadi member
-- Aplikasi ini nantinya akan ada berbasis web juga

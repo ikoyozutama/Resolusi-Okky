@@ -5,6 +5,8 @@ A. Mengecek total penggunaan air setiap orang
 B. Mengkonversi total biaya yang dihabiskan setiap orang melalui total meteran air
 C. Pembayaran biaya penggunaan air dengan bekerja sama beberapa mitra seperti Dana, OVO, LinkAja dan transfer bank
 D. Mengatur data administrasi dan penggunaan air setiap orang
+E. Mengatur jumlah administrasi keuangan pengelolaan air perbulan
 - Aplikasi nantinya akan menggunakan flutter dan berbasis android/OS
 - Aplikasi akan bisa tersambung ke mesin print nota manual (digunakan untuk proses pembayaran agar ada bukti pembayaran untuk setiap orang)
 - Diharapkan aplikasi ini dapat membantu operator pengelola air dan masyarakat desa Tamanasri yang menjadi member
+- Aplikasi ini nantinya akan ada berbasis web juga

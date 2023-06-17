@@ -7,6 +7,6 @@ C. Pembayaran biaya penggunaan air dengan bekerja sama beberapa mitra seperti Da
 D. Mengatur data administrasi dan penggunaan air setiap orang
 E. Mengatur jumlah administrasi keuangan pengelolaan air perbulan
 - Aplikasi nantinya akan menggunakan flutter dan berbasis android/OS
-- Aplikasi akan bisa tersambung ke mesin print nota manual (digunakan untuk proses pembayaran agar ada bukti pembayaran untuk setiap orang)
+- Akan ada fitur game didalam aplikasi untuk mengumpulkan poin dan poin ini dapat digunakan untuk mendapat potongan biaya penggunaan air
 - Diharapkan aplikasi ini dapat membantu operator pengelola air dan masyarakat desa Tamanasri yang menjadi member
 - Aplikasi ini nantinya akan ada berbasis web juga
